@@ -1,0 +1,12 @@
+ctransformers==0.2.5
+sentence-transformers==2.2.2
+pinecone==5.0.0
+flask
+sqlalchemy
+pandas
+python-dotenv
+requests
+langchain==0.2.16
+langchain-community==0.2.16
+beautifulsoup4   
+pillow       
